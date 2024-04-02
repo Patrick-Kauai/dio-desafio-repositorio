@@ -13,9 +13,20 @@ Preparamos uma imersão com experts em Quality Assurance (QA), onde vamos aprese
 
 ## Atividades:
 - Desafio de Código: Coloque em prática todo o conhecimento adquirido nas aulas e teste o seu conhecimento na resolução de um desafio.
-
 - Desafio de Projeto: Construa o seu portfólio construindo projetos práticos com o conhecimento adquirido ao longo das aulas.
 
+
+# Desafio (O Dia a Dia de um QA: A Prática de Testes Manuais Funcionais)
+
+## O desafio deverá conter
+
+- O desafio deverá ser baseado no site SwagLabs Shopping.
+- Um plano de fluxo de trabalho de desenvolvido e do ciclo de vida do bug.
+- 2 User Stories pensadas e criadas em formato PDF.
+- Documentos de teste geradas no processo de estudo:
+  - Mind-map pelo menos de 1 User Story.
+  - 2 casos de teste utilizando técnica step-by-step .
+  - 2 casos de teste utilizando BDD.
 
  
 ## Linkes úteis
